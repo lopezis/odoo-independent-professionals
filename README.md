@@ -1,4 +1,4 @@
-# Odoo Freelancer Suite
+# Odoo 18 Freelancer Suite
 
 Colección curada de módulos para **Odoo Community Edition** orientada a **profesionales independientes, freelancers y pequeños negocios unipersonales**.
 
